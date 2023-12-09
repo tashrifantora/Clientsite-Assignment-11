@@ -1,6 +1,7 @@
 # React + Vite
+![The San Juan Mountains are beautiful!](/src/assets/Blog-writer/5603474_1824.jpg "San Juan Mountains")
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Blogging website. I made it responsive , amination, marquee, alert, authentication. I'm still work on it...
 
 Currently, two official plugins are available:
 
